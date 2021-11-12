@@ -1,0 +1,504 @@
+2021-11-12 21:47:45 - Connected Ground sensor ID is  ****slot-7****
+2021-11-12 21:47:45 - 7 is of status 0
+2021-11-12 21:47:45 - Connected to broker
+2021-11-12 21:47:50 - 7 is of status 0
+2021-11-12 21:47:55 - 7 is of status 1
+2021-11-12 21:48:00 - 7 is of status 1
+2021-11-12 21:48:05 - 7 is of status 1
+2021-11-12 21:48:10 - 7 is of status 1
+2021-11-12 21:48:15 - 7 is of status 1
+2021-11-12 21:48:20 - 7 is of status 1
+2021-11-12 21:48:25 - 7 is of status 1
+2021-11-12 21:48:30 - 7 is of status 1
+2021-11-12 21:48:35 - 7 is of status 1
+2021-11-12 21:48:40 - 7 is of status 1
+2021-11-12 21:48:45 - 7 is of status 1
+2021-11-12 21:48:50 - 7 is of status 1
+2021-11-12 21:48:55 - 7 is of status 1
+2021-11-12 21:49:00 - 7 is of status 1
+2021-11-12 21:49:05 - 7 is of status 1
+2021-11-12 21:49:10 - 7 is of status 1
+2021-11-12 21:49:15 - 7 is of status 1
+2021-11-12 21:49:20 - 7 is of status 1
+exit id 7
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-8****
+2021-11-12 21:47:46 - 8 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 8 is of status 0
+2021-11-12 21:47:56 - 8 is of status 0
+2021-11-12 21:48:01 - 8 is of status 0
+2021-11-12 21:48:06 - 8 is of status 0
+2021-11-12 21:48:11 - 8 is of status 0
+2021-11-12 21:48:16 - 8 is of status 0
+2021-11-12 21:48:21 - 8 is of status 0
+2021-11-12 21:48:26 - 8 is of status 0
+2021-11-12 21:48:31 - 8 is of status 1
+2021-11-12 21:48:36 - 8 is of status 1
+2021-11-12 21:48:41 - 8 is of status 0
+2021-11-12 21:48:46 - 8 is of status 0
+2021-11-12 21:48:51 - 8 is of status 1
+2021-11-12 21:48:56 - 8 is of status 1
+2021-11-12 21:49:01 - 8 is of status 0
+2021-11-12 21:49:06 - 8 is of status 1
+2021-11-12 21:49:11 - 8 is of status 0
+2021-11-12 21:49:16 - 8 is of status 1
+2021-11-12 21:49:21 - 8 is of status 0
+exit id 8
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-9****
+2021-11-12 21:47:46 - 9 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 9 is of status 0
+2021-11-12 21:47:56 - 9 is of status 1
+2021-11-12 21:48:01 - 9 is of status 1
+2021-11-12 21:48:06 - 9 is of status 1
+2021-11-12 21:48:11 - 9 is of status 1
+2021-11-12 21:48:16 - 9 is of status 1
+2021-11-12 21:48:21 - 9 is of status 1
+2021-11-12 21:48:26 - 9 is of status 1
+2021-11-12 21:48:31 - 9 is of status 1
+2021-11-12 21:48:36 - 9 is of status 1
+2021-11-12 21:48:41 - 9 is of status 1
+2021-11-12 21:48:46 - 9 is of status 1
+2021-11-12 21:48:51 - 9 is of status 1
+2021-11-12 21:48:56 - 9 is of status 1
+2021-11-12 21:49:01 - 9 is of status 1
+2021-11-12 21:49:06 - 9 is of status 1
+2021-11-12 21:49:11 - 9 is of status 1
+2021-11-12 21:49:16 - 9 is of status 1
+2021-11-12 21:49:21 - 9 is of status 1
+exit id 9
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-2****
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:46 - 2 is of status 0
+2021-11-12 21:47:51 - 2 is of status 1
+2021-11-12 21:47:56 - 2 is of status 0
+2021-11-12 21:48:01 - 2 is of status 1
+2021-11-12 21:48:06 - 2 is of status 0
+2021-11-12 21:48:11 - 2 is of status 0
+2021-11-12 21:48:16 - 2 is of status 0
+2021-11-12 21:48:21 - 2 is of status 1
+2021-11-12 21:48:26 - 2 is of status 1
+2021-11-12 21:48:31 - 2 is of status 1
+2021-11-12 21:48:36 - 2 is of status 1
+2021-11-12 21:48:41 - 2 is of status 1
+2021-11-12 21:48:46 - 2 is of status 0
+2021-11-12 21:48:51 - 2 is of status 0
+2021-11-12 21:48:56 - 2 is of status 0
+2021-11-12 21:49:01 - 2 is of status 0
+2021-11-12 21:49:06 - 2 is of status 0
+2021-11-12 21:49:11 - 2 is of status 0
+2021-11-12 21:49:16 - 2 is of status 0
+2021-11-12 21:49:21 - 2 is of status 0
+exit id 2
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-4****
+2021-11-12 21:47:46 - 4 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 4 is of status 0
+2021-11-12 21:47:56 - 4 is of status 0
+2021-11-12 21:48:01 - 4 is of status 0
+2021-11-12 21:48:06 - 4 is of status 1
+2021-11-12 21:48:11 - 4 is of status 1
+2021-11-12 21:48:16 - 4 is of status 0
+2021-11-12 21:48:21 - 4 is of status 0
+2021-11-12 21:48:26 - 4 is of status 1
+2021-11-12 21:48:31 - 4 is of status 0
+2021-11-12 21:48:36 - 4 is of status 0
+2021-11-12 21:48:41 - 4 is of status 0
+2021-11-12 21:48:46 - 4 is of status 0
+2021-11-12 21:48:51 - 4 is of status 0
+2021-11-12 21:48:56 - 4 is of status 0
+2021-11-12 21:49:01 - 4 is of status 0
+2021-11-12 21:49:06 - 4 is of status 0
+2021-11-12 21:49:11 - 4 is of status 0
+2021-11-12 21:49:16 - 4 is of status 0
+2021-11-12 21:49:21 - 4 is of status 0
+exit id 4
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-6****
+2021-11-12 21:47:46 - 6 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 6 is of status 0
+2021-11-12 21:47:56 - 6 is of status 0
+2021-11-12 21:48:01 - 6 is of status 0
+2021-11-12 21:48:06 - 6 is of status 0
+2021-11-12 21:48:11 - 6 is of status 0
+2021-11-12 21:48:16 - 6 is of status 1
+2021-11-12 21:48:21 - 6 is of status 1
+2021-11-12 21:48:26 - 6 is of status 0
+2021-11-12 21:48:31 - 6 is of status 1
+2021-11-12 21:48:36 - 6 is of status 1
+2021-11-12 21:48:41 - 6 is of status 1
+2021-11-12 21:48:46 - 6 is of status 1
+2021-11-12 21:48:51 - 6 is of status 0
+2021-11-12 21:48:56 - 6 is of status 0
+2021-11-12 21:49:01 - 6 is of status 1
+2021-11-12 21:49:06 - 6 is of status 0
+2021-11-12 21:49:11 - 6 is of status 1
+2021-11-12 21:49:16 - 6 is of status 0
+2021-11-12 21:49:21 - 6 is of status 0
+exit id 6
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-5****
+2021-11-12 21:47:46 - 5 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 5 is of status 1
+2021-11-12 21:47:56 - 5 is of status 1
+2021-11-12 21:48:01 - 5 is of status 1
+2021-11-12 21:48:06 - 5 is of status 1
+2021-11-12 21:48:11 - 5 is of status 1
+2021-11-12 21:48:16 - 5 is of status 1
+2021-11-12 21:48:21 - 5 is of status 1
+2021-11-12 21:48:26 - 5 is of status 1
+2021-11-12 21:48:31 - 5 is of status 1
+2021-11-12 21:48:36 - 5 is of status 1
+2021-11-12 21:48:41 - 5 is of status 1
+2021-11-12 21:48:46 - 5 is of status 1
+2021-11-12 21:48:51 - 5 is of status 1
+2021-11-12 21:48:56 - 5 is of status 1
+2021-11-12 21:49:01 - 5 is of status 1
+2021-11-12 21:49:06 - 5 is of status 1
+2021-11-12 21:49:11 - 5 is of status 1
+2021-11-12 21:49:16 - 5 is of status 1
+2021-11-12 21:49:21 - 5 is of status 1
+exit id 5
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-1****
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:46 - 1 is of status 1
+2021-11-12 21:47:51 - 1 is of status 1
+2021-11-12 21:47:56 - 1 is of status 1
+2021-11-12 21:48:01 - 1 is of status 0
+2021-11-12 21:48:06 - 1 is of status 0
+2021-11-12 21:48:11 - 1 is of status 0
+2021-11-12 21:48:16 - 1 is of status 1
+2021-11-12 21:48:21 - 1 is of status 0
+2021-11-12 21:48:26 - 1 is of status 0
+2021-11-12 21:48:31 - 1 is of status 0
+2021-11-12 21:48:36 - 1 is of status 0
+2021-11-12 21:48:41 - 1 is of status 0
+2021-11-12 21:48:46 - 1 is of status 0
+2021-11-12 21:48:51 - 1 is of status 1
+2021-11-12 21:48:56 - 1 is of status 0
+2021-11-12 21:49:01 - 1 is of status 0
+2021-11-12 21:49:06 - 1 is of status 0
+2021-11-12 21:49:11 - 1 is of status 1
+2021-11-12 21:49:16 - 1 is of status 0
+2021-11-12 21:49:21 - 1 is of status 0
+exit id 1
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-3****
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:46 - 3 is of status 1
+2021-11-12 21:47:51 - 3 is of status 1
+2021-11-12 21:47:56 - 3 is of status 1
+2021-11-12 21:48:01 - 3 is of status 1
+2021-11-12 21:48:06 - 3 is of status 1
+2021-11-12 21:48:11 - 3 is of status 1
+2021-11-12 21:48:16 - 3 is of status 1
+2021-11-12 21:48:21 - 3 is of status 1
+2021-11-12 21:48:26 - 3 is of status 1
+2021-11-12 21:48:31 - 3 is of status 1
+2021-11-12 21:48:36 - 3 is of status 1
+2021-11-12 21:48:41 - 3 is of status 1
+2021-11-12 21:48:46 - 3 is of status 1
+2021-11-12 21:48:51 - 3 is of status 1
+2021-11-12 21:48:56 - 3 is of status 1
+2021-11-12 21:49:01 - 3 is of status 1
+2021-11-12 21:49:06 - 3 is of status 1
+2021-11-12 21:49:11 - 3 is of status 1
+2021-11-12 21:49:16 - 3 is of status 1
+2021-11-12 21:49:21 - 3 is of status 1
+exit id 3
+2021-11-12 21:47:46 - Connected Ground sensor ID is  ****slot-10****
+2021-11-12 21:47:46 - 10 is of status 0
+2021-11-12 21:47:46 - Connected to broker
+2021-11-12 21:47:51 - 10 is of status 1
+2021-11-12 21:47:56 - 10 is of status 0
+2021-11-12 21:48:01 - 10 is of status 1
+2021-11-12 21:48:06 - 10 is of status 0
+2021-11-12 21:48:11 - 10 is of status 0
+2021-11-12 21:48:16 - 10 is of status 1
+2021-11-12 21:48:21 - 10 is of status 0
+2021-11-12 21:48:26 - 10 is of status 0
+2021-11-12 21:48:31 - 10 is of status 0
+2021-11-12 21:48:36 - 10 is of status 0
+2021-11-12 21:48:41 - 10 is of status 0
+2021-11-12 21:48:46 - 10 is of status 0
+2021-11-12 21:48:51 - 10 is of status 1
+2021-11-12 21:48:56 - 10 is of status 0
+2021-11-12 21:49:01 - 10 is of status 0
+2021-11-12 21:49:06 - 10 is of status 0
+2021-11-12 21:49:11 - 10 is of status 0
+2021-11-12 21:49:16 - 10 is of status 1
+2021-11-12 21:49:21 - 10 is of status 0
+exit id 10
+['HR26DQ5551', '0', 'TS12AB1632', '0', '0', '0', '0', '0', '0', '0']
+Connected to broker
+['HR26DQ8821', 'HR12DQ1310', 'TS12AB1632', '0', 'DL8CZ8821', '0', '0', '0', '0', 'DH12FE9000']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ8821', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE8821', 'DH12FE9000']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'HR12AB8821', '0', 'HR12DQ9205', '0', 'DL8CZ8821', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'HR12AB8821', '0', 'HR12DQ9205', '0', 'DL8CZ8821', '0', 'TS12FE9205', '0']
+['']
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-6****
+2021-11-12 21:52:51 - 6 is of status 0
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:56 - 6 is of status 0
+2021-11-12 21:53:01 - 6 is of status 0
+2021-11-12 21:53:06 - 6 is of status 0
+2021-11-12 21:53:11 - 6 is of status 0
+2021-11-12 21:53:16 - 6 is of status 0
+2021-11-12 21:53:21 - 6 is of status 1
+2021-11-12 21:53:26 - 6 is of status 1
+2021-11-12 21:53:31 - 6 is of status 0
+2021-11-12 21:53:36 - 6 is of status 1
+2021-11-12 21:53:41 - 6 is of status 1
+2021-11-12 21:53:46 - 6 is of status 1
+2021-11-12 21:53:51 - 6 is of status 1
+2021-11-12 21:53:56 - 6 is of status 0
+2021-11-12 21:54:01 - 6 is of status 0
+2021-11-12 21:54:06 - 6 is of status 1
+2021-11-12 21:54:11 - 6 is of status 0
+2021-11-12 21:54:16 - 6 is of status 1
+2021-11-12 21:54:21 - 6 is of status 0
+2021-11-12 21:54:26 - 6 is of status 0
+exit id 6
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-5****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 5 is of status 0
+2021-11-12 21:52:56 - 5 is of status 1
+2021-11-12 21:53:01 - 5 is of status 1
+2021-11-12 21:53:06 - 5 is of status 1
+2021-11-12 21:53:11 - 5 is of status 1
+2021-11-12 21:53:16 - 5 is of status 1
+2021-11-12 21:53:21 - 5 is of status 1
+2021-11-12 21:53:26 - 5 is of status 1
+2021-11-12 21:53:31 - 5 is of status 1
+2021-11-12 21:53:36 - 5 is of status 1
+2021-11-12 21:53:41 - 5 is of status 1
+2021-11-12 21:53:46 - 5 is of status 1
+2021-11-12 21:53:51 - 5 is of status 1
+2021-11-12 21:53:56 - 5 is of status 1
+2021-11-12 21:54:01 - 5 is of status 1
+2021-11-12 21:54:06 - 5 is of status 1
+2021-11-12 21:54:11 - 5 is of status 1
+2021-11-12 21:54:16 - 5 is of status 1
+2021-11-12 21:54:21 - 5 is of status 1
+2021-11-12 21:54:26 - 5 is of status 1
+exit id 5
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-4****
+2021-11-12 21:52:51 - 4 is of status 0
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:56 - 4 is of status 0
+2021-11-12 21:53:01 - 4 is of status 0
+2021-11-12 21:53:06 - 4 is of status 0
+2021-11-12 21:53:11 - 4 is of status 1
+2021-11-12 21:53:16 - 4 is of status 1
+2021-11-12 21:53:21 - 4 is of status 0
+2021-11-12 21:53:26 - 4 is of status 0
+2021-11-12 21:53:31 - 4 is of status 1
+2021-11-12 21:53:36 - 4 is of status 0
+2021-11-12 21:53:41 - 4 is of status 0
+2021-11-12 21:53:46 - 4 is of status 0
+2021-11-12 21:53:51 - 4 is of status 0
+2021-11-12 21:53:56 - 4 is of status 0
+2021-11-12 21:54:01 - 4 is of status 0
+2021-11-12 21:54:06 - 4 is of status 0
+2021-11-12 21:54:11 - 4 is of status 0
+2021-11-12 21:54:16 - 4 is of status 0
+2021-11-12 21:54:21 - 4 is of status 0
+2021-11-12 21:54:26 - 4 is of status 0
+exit id 4
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-7****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 7 is of status 0
+2021-11-12 21:52:56 - 7 is of status 0
+2021-11-12 21:53:01 - 7 is of status 1
+2021-11-12 21:53:06 - 7 is of status 1
+2021-11-12 21:53:11 - 7 is of status 1
+2021-11-12 21:53:16 - 7 is of status 1
+2021-11-12 21:53:21 - 7 is of status 1
+2021-11-12 21:53:26 - 7 is of status 1
+2021-11-12 21:53:31 - 7 is of status 1
+2021-11-12 21:53:36 - 7 is of status 1
+2021-11-12 21:53:41 - 7 is of status 1
+2021-11-12 21:53:46 - 7 is of status 1
+2021-11-12 21:53:51 - 7 is of status 1
+2021-11-12 21:53:56 - 7 is of status 1
+2021-11-12 21:54:01 - 7 is of status 1
+2021-11-12 21:54:06 - 7 is of status 1
+2021-11-12 21:54:11 - 7 is of status 1
+2021-11-12 21:54:16 - 7 is of status 1
+2021-11-12 21:54:21 - 7 is of status 1
+2021-11-12 21:54:26 - 7 is of status 1
+exit id 7
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-9****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 9 is of status 0
+2021-11-12 21:52:56 - 9 is of status 0
+2021-11-12 21:53:01 - 9 is of status 1
+2021-11-12 21:53:06 - 9 is of status 1
+2021-11-12 21:53:11 - 9 is of status 1
+2021-11-12 21:53:16 - 9 is of status 1
+2021-11-12 21:53:21 - 9 is of status 1
+2021-11-12 21:53:26 - 9 is of status 1
+2021-11-12 21:53:31 - 9 is of status 1
+2021-11-12 21:53:36 - 9 is of status 1
+2021-11-12 21:53:41 - 9 is of status 1
+2021-11-12 21:53:46 - 9 is of status 1
+2021-11-12 21:53:51 - 9 is of status 1
+2021-11-12 21:53:56 - 9 is of status 1
+2021-11-12 21:54:01 - 9 is of status 1
+2021-11-12 21:54:06 - 9 is of status 1
+2021-11-12 21:54:11 - 9 is of status 1
+2021-11-12 21:54:16 - 9 is of status 1
+2021-11-12 21:54:21 - 9 is of status 1
+2021-11-12 21:54:26 - 9 is of status 1
+exit id 9
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-10****
+2021-11-12 21:52:51 - 10 is of status 0
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:56 - 10 is of status 1
+2021-11-12 21:53:01 - 10 is of status 0
+2021-11-12 21:53:06 - 10 is of status 1
+2021-11-12 21:53:11 - 10 is of status 0
+2021-11-12 21:53:16 - 10 is of status 0
+2021-11-12 21:53:21 - 10 is of status 1
+2021-11-12 21:53:26 - 10 is of status 0
+2021-11-12 21:53:31 - 10 is of status 0
+2021-11-12 21:53:36 - 10 is of status 0
+2021-11-12 21:53:41 - 10 is of status 0
+2021-11-12 21:53:46 - 10 is of status 0
+2021-11-12 21:53:51 - 10 is of status 0
+2021-11-12 21:53:56 - 10 is of status 1
+2021-11-12 21:54:01 - 10 is of status 0
+2021-11-12 21:54:06 - 10 is of status 0
+2021-11-12 21:54:11 - 10 is of status 0
+2021-11-12 21:54:16 - 10 is of status 0
+2021-11-12 21:54:21 - 10 is of status 1
+2021-11-12 21:54:26 - 10 is of status 0
+exit id 10
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-8****
+2021-11-12 21:52:51 - 8 is of status 0
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:56 - 8 is of status 0
+2021-11-12 21:53:01 - 8 is of status 0
+2021-11-12 21:53:06 - 8 is of status 0
+2021-11-12 21:53:11 - 8 is of status 0
+2021-11-12 21:53:16 - 8 is of status 0
+2021-11-12 21:53:21 - 8 is of status 0
+2021-11-12 21:53:26 - 8 is of status 0
+2021-11-12 21:53:31 - 8 is of status 0
+2021-11-12 21:53:36 - 8 is of status 1
+2021-11-12 21:53:41 - 8 is of status 1
+2021-11-12 21:53:46 - 8 is of status 0
+2021-11-12 21:53:51 - 8 is of status 0
+2021-11-12 21:53:56 - 8 is of status 1
+2021-11-12 21:54:01 - 8 is of status 1
+2021-11-12 21:54:06 - 8 is of status 0
+2021-11-12 21:54:11 - 8 is of status 1
+2021-11-12 21:54:16 - 8 is of status 0
+2021-11-12 21:54:21 - 8 is of status 1
+2021-11-12 21:54:26 - 8 is of status 0
+exit id 8
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-3****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 3 is of status 1
+2021-11-12 21:52:56 - 3 is of status 1
+2021-11-12 21:53:01 - 3 is of status 1
+2021-11-12 21:53:06 - 3 is of status 1
+2021-11-12 21:53:11 - 3 is of status 1
+2021-11-12 21:53:16 - 3 is of status 1
+2021-11-12 21:53:21 - 3 is of status 1
+2021-11-12 21:53:26 - 3 is of status 1
+2021-11-12 21:53:31 - 3 is of status 1
+2021-11-12 21:53:36 - 3 is of status 1
+2021-11-12 21:53:41 - 3 is of status 1
+2021-11-12 21:53:46 - 3 is of status 1
+2021-11-12 21:53:51 - 3 is of status 1
+2021-11-12 21:53:56 - 3 is of status 1
+2021-11-12 21:54:01 - 3 is of status 1
+2021-11-12 21:54:06 - 3 is of status 1
+2021-11-12 21:54:11 - 3 is of status 1
+2021-11-12 21:54:16 - 3 is of status 1
+2021-11-12 21:54:21 - 3 is of status 1
+2021-11-12 21:54:26 - 3 is of status 1
+exit id 3
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-1****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 1 is of status 1
+2021-11-12 21:52:56 - 1 is of status 1
+2021-11-12 21:53:01 - 1 is of status 1
+2021-11-12 21:53:06 - 1 is of status 0
+2021-11-12 21:53:11 - 1 is of status 0
+2021-11-12 21:53:16 - 1 is of status 0
+2021-11-12 21:53:21 - 1 is of status 1
+2021-11-12 21:53:26 - 1 is of status 0
+2021-11-12 21:53:31 - 1 is of status 0
+2021-11-12 21:53:36 - 1 is of status 0
+2021-11-12 21:53:41 - 1 is of status 0
+2021-11-12 21:53:46 - 1 is of status 0
+2021-11-12 21:53:51 - 1 is of status 0
+2021-11-12 21:53:56 - 1 is of status 1
+2021-11-12 21:54:01 - 1 is of status 0
+2021-11-12 21:54:06 - 1 is of status 0
+2021-11-12 21:54:11 - 1 is of status 0
+2021-11-12 21:54:16 - 1 is of status 1
+2021-11-12 21:54:21 - 1 is of status 0
+2021-11-12 21:54:26 - 1 is of status 0
+exit id 1
+2021-11-12 21:52:51 - Connected Ground sensor ID is  ****slot-2****
+2021-11-12 21:52:51 - Connected to broker
+2021-11-12 21:52:51 - 2 is of status 0
+2021-11-12 21:52:56 - 2 is of status 1
+2021-11-12 21:53:01 - 2 is of status 0
+2021-11-12 21:53:06 - 2 is of status 1
+2021-11-12 21:53:11 - 2 is of status 0
+2021-11-12 21:53:16 - 2 is of status 0
+2021-11-12 21:53:21 - 2 is of status 0
+2021-11-12 21:53:26 - 2 is of status 1
+2021-11-12 21:53:31 - 2 is of status 1
+2021-11-12 21:53:36 - 2 is of status 1
+2021-11-12 21:53:41 - 2 is of status 1
+2021-11-12 21:53:46 - 2 is of status 1
+2021-11-12 21:53:51 - 2 is of status 0
+2021-11-12 21:53:56 - 2 is of status 0
+2021-11-12 21:54:01 - 2 is of status 0
+2021-11-12 21:54:06 - 2 is of status 0
+2021-11-12 21:54:11 - 2 is of status 0
+2021-11-12 21:54:16 - 2 is of status 0
+2021-11-12 21:54:21 - 2 is of status 0
+2021-11-12 21:54:26 - 2 is of status 0
+exit id 2
+['HR26DQ5551', '0', 'TS12AB1632', '0', '0', '0', '0', '0', '0', '0']
+Connected to broker
+['HR26DQ8821', 'HR12DQ1310', 'TS12AB1632', '0', 'DL8CZ8821', '0', '0', '0', '0', 'DH12FE9000']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ8821', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE8821', 'DH12FE9000']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'HR12AB8821', '0', 'HR12DQ9205', '0', 'DL8CZ8821', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'HR12AB8821', '0', 'HR12DQ9205', '0', 'DL8CZ8821', '0', 'TS12FE9205', '0']
+['']
