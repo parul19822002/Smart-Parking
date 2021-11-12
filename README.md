@@ -1,4 +1,4 @@
 # Smart-Parking
 Team Members: 
-Anand
+Anand &
 Parul Singh
